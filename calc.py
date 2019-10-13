@@ -1,5 +1,4 @@
 def add(x,y):
-<<<<<<< HEAD
     return x+y
 def subtract(x,y):
     pass
